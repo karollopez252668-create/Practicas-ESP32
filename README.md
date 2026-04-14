@@ -1,13 +1,19 @@
-Actividad 1: Led con entrada digital
+Practica 1:
 
-Actividad 2: Led con entrada analogica
+  Actividad 1: Led con entrada digital
+  
+  Actividad 2: Led con entrada analogica
+  
+  Actividad 3: Led con monitor serial
+  
+  Actividad 4: Teclado Matricial
 
-Actividad 3: Led con monitor serial
+Practica 2:
 
-Actividad 4: Teclado Matricial
+  Actividad 5: Pantalla LCD
+  
+  Actividad 6: Sensor de Temperatura
 
-Actividad 5: Pantalla LCD
+Practica 3: 
 
-Actividad 6: Sensor de Temperatura
-
-Actividad 7 :  Control con Arduino Esplora y visualización en ESP32
+  Actividad 7 :  Control con Arduino Esplora y visualización en ESP32
